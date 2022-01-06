@@ -1,7 +1,7 @@
 # Site settings
 site: R4yan
 title: R4yan - Posts and other
-keywords: ephesus, blog
+keywords: r4yan, blog, sec, dev
 description: >-
   R4yan
 lang: en-US
@@ -14,11 +14,11 @@ discus-identifier:  XXX
 # Author settings
 author:
   name: 0xR4yan
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  bio: someone
   picture: assets/images/profile.jpg 
   github: R4yGM # github username
   twitter: R4yDev # twitter username
-  linkedin: hakantorun # linkedin username
+  linkedin: rayan-yessou-65152a14b # linkedin username
   email: yessou.rayan@email.com # email adress
 
 
