@@ -1,11 +1,11 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
+site: R4yan
+title: R4yan - Posts and other
 keywords: ephesus, blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  R4yan
 lang: en-US
-timezone:  Europe/Istanbul
+timezone:  Europe/Rome
 repo: https://github.com/onepase/Ephesus # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
@@ -13,16 +13,13 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
+  name: 0xR4yan
   bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
   picture: assets/images/profile.jpg 
-  github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
+  github: R4yGM # github username
+  twitter: R4yDev # twitter username
   linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  email: yessou.rayan@email.com # email adress
 
 
 # URL settings
